@@ -24,3 +24,12 @@ Código máquina 1GL>Ensamblador 2GL>Prolog 3GL>SQL 4GL>C++ 3GL
 Cada vez nos vamos alejando más del lenguaje máquina.
 Las nuevas generaciones son necesarias para facilitar el acceso
 al mundo de la programación y facilitar la vida a los programadores.
+
+Javascript es el lenguaje de la imagen, escrito en un template de
+html. Se ejecuta en el navegador.
+
+Para un videojuego 3D usaría C++ para optimizar rendimiento.
+Para una app de móvil podría usar Kotlin para Android o Swift para MacOS
+Para un análisis de datos de datos de supermercado podría usar
+Python con módulos como pandas para ayudarme con el preprocesado de
+los datos.
