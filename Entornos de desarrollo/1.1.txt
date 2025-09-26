@@ -1,0 +1,23 @@
+La Organización Internacional de Normalización  establece normas
+internacionales sobre tecnología para que todos hablemos el
+mismo idioma
+El IEEE es el Instituto de Ingenieros Eléctricos y Electrónicos
+La ISO es la Organización Internacional de Normalización
+La IEC es la Comisión Electrotécnica Internacional
+Un programa informático es un conjunto de código con instrucciones
+para que un ordenador desempeñe cierta función.
+Un programa puede hacer cálculos o automatizar tareas.
+El software es un término más amplio que abarca el conjunto
+de programas, datos, procedimientos y documentación que un
+sistema informático utiliza para funcionar.
+Sistemas: Windows, Linux y MacOS
+Aplicaciones: Word, Photoshop, GIMP, LibreOffice y Visual Studio
+Code
+Soportes: Antivirus, Drivers, Compiladores e Intérpretes(Python)
+Un sistema es lo que permite que podamos comunicarnos con el 
+ordenador de manera más sencilla, una aplicación facilita funciones
+específicas y un soporte complementa a las otras dos.
+Si fuese científico de datos probablemente programaría en Python
+usando Jupyter Notebook
+Si fuese desarrollador web programaría en javascript y usaría chrome
+con la herramienta de inspección para ver el código de otras páginas
