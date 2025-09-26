@@ -1,0 +1,6 @@
+Poner taza en la máquina
+Pulsar botón de hacer café
+Si aviso de que no hay agua
+    Echar agua
+Si aviso de que no hay café
+    Añadir café

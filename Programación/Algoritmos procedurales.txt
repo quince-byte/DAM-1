@@ -1,0 +1,24 @@
+Si son las 7:00
+	levantarme
+Vestirme
+Si hay comida y si hay tiempo
+	Desayunar
+si no
+	continuar al siguiente paso
+Coger el móvil
+Abrir maps
+Introducir Av. de los rosales 17
+Pulsar el botón de buscar
+Si encuentra el lugar
+	Pulsar el botón de como llegar
+Si no
+	Problema
+Leer la primera dirección a la que debo dirigirme
+Mover primero una pierna y después la otra de manera indefinida hasta llegar al metro/estación de bus
+Entrar si ha llegado, si no esperar
+Bajarme en la parada que me indique el maps
+Mover primero una pierna y después la otra de manera indefinida hasta llegar a Prometeo
+Si está la puerta abierta
+	Entrar
+Si no
+	esperar

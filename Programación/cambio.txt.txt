@@ -1,0 +1,14 @@
+LLamemos al precio total de la compra t
+LLamemos al dinero entregado por el cliente d
+Hacer d-t y llamar al resultado(dinero de vuelta) v
+Si v<0
+		Pedir más dinero al cliente
+		Si el cliente aporta más dinero
+				Ese nuevo dinero lo sobreescribimos en d
+				Volvemos al paso 3
+		Llamar a seguridad
+Si v=0
+		Darle el ticket y decirle adiós al cliente
+Coger v del cajero
+Dárselo al cliente
+Darle el ticket y decirle adiós al cliente
