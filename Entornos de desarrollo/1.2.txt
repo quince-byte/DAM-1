@@ -1,1 +1,26 @@
 01001000011011110110110001100001001000000110011101110010011101010111000001101111
+La palabra o frase se convierte en un patrón de unos y ceros que
+permiten a la máquina interpretarlas.
+
+El lenguaje es Python
+En Java es System.out.print() o System.out.println(), uno inserta además un 
+salto de línea, el otro no, respectivamente.
+En C es printf
+Tienen en común la palabra print y la forma de introducir la string
+con comillas dobles.
+
+La primera es C, nivel de abstracción intermedio
+La segunda es ensamblador, de bajo nivel
+La última es Python, de alto nivel
+
+Para crear una página web usaría Javascript o Typescript
+Para analizar datos de encuestas python, usando librerías como pandas o polars
+Para gestionar una base de datos podría usar SQL en phpMyAdmin pero también
+podría usar el módulo sqlalquemy en Python por ejemplo
+Probablemente C++, pero tendría un coste de tiempo significativo. También podría 
+usar Java, dependiendo de los requerimientos de la aplicación.
+
+Código máquina 1GL>Ensamblador 2GL>Prolog 3GL>SQL 4GL>C++ 3GL
+Cada vez nos vamos alejando más del lenguaje máquina.
+Las nuevas generaciones son necesarias para facilitar el acceso
+al mundo de la programación y facilitar la vida a los programadores.
