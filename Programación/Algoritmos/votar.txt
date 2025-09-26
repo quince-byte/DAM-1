@@ -1,0 +1,7 @@
+Recibir edad de persona
+Si no es número:
+    Volver a pedir el número, explicando que el valor introducido no es un número
+Llamarla d
+Si d>17:
+    Decir que puede votar(Fin)
+Decir que no puede votar

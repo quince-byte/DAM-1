@@ -1,0 +1,5 @@
+Pedir radio del círculo y llamarlo r
+Si no es número:
+    Volver a pedir el radio, explicando que el valor introducido no es un número
+Hacer pi*(r**2), llamarlo a 
+Devolver a

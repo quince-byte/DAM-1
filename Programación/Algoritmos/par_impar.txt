@@ -1,0 +1,7 @@
+Recibir número
+Si no es número:
+    Volver a pedir el número, explicando que el valor introducido no es un número
+Llamarla n
+Si n % 2 == 0:
+    Decir que es par
+Decir que es impar
