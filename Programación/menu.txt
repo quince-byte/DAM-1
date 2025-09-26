@@ -1,0 +1,8 @@
+Definimos los conjuntos f,s,d con n>7 elementos, que servirán de contenedores de los platos de primeros, segundos y postres
+Creamos un diccionario llamado m
+Creamos un conjunto llamado days donde estarán los nombres de los diferentes días de la semana, en orden
+Para i desde 0 hasta 6:
+    Añadimos al diccionario el i elemento del conjunto days como clave,
+    con un valor aleatorio de f, s y d respectivamente dentro de un conjunto, después eliminamos los valores cogidos de los conjuntos f, s y d
+
+

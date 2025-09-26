@@ -1,0 +1,25 @@
+Para cada cliente en la cola de clientes:
+    LLamemos al precio total de la compra t, con valor inicial 0
+    LLamemos al dinero entregado por el cliente d
+    Para cada precio de producto definido como p del carrito del cliente:
+        Hacemos t+p
+    Si el cliente paga con tarjeta:
+        Poner t en el datáfono
+        Pedir al cliente que acerque su tarjeta, llamando a este paso pedir_tarjeta
+        Si el cliente la acerca:
+            Si la compra es exitosa:
+                Darle el ticket y decirle adiós al cliente(Fin)
+            Ir al paso pedir_tarjeta
+        Llamar a seguridad(Fin)
+    Hacer d-t y llamar al resultado(dinero de vuelta) v, llamemos a este paso diferencia
+    Si v<0
+            Pedir más dinero al cliente
+            Si el cliente aporta más dinero
+                    Ese nuevo dinero lo sobreescribimos en d
+                    Volvemos al paso diferencia
+            Llamar a seguridad(Fin)
+    Si v=0
+            Darle el ticket y decirle adiós al cliente(Fin)
+    Coger v del cajero
+    Dárselo al cliente
+    Darle el ticket y decirle adiós al cliente(Fin)
