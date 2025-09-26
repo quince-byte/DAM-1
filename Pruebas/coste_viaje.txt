@@ -1,6 +1,0 @@
-Definimos consumo del coche como c
-Definimos distancia al punto de destino como d
-Definimos el precio de la gasolina por litro como p
-Hacemos c*d y lo llamamos g
-Hacemos g*p y lo llamamos t
-Devolvemos t
