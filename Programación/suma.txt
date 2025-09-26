@@ -1,0 +1,9 @@
+Pedir número a
+Si no es número:
+    Volver a pedir el número, explicando que el valor introducido no es un número
+LLamarlo a
+Pedir número b
+Si no es número:
+    Volver a pedir el número, explicando que el valor introducido no es un número
+LLamarlo b
+mostrar a+b(Fin)

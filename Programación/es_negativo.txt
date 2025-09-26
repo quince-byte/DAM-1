@@ -1,0 +1,9 @@
+Pedir número y llamarlo a
+Si no es número:
+    Volver a pedir el número, explicando que el valor introducido no es un número
+LLamarlo a
+Si a>0:
+    Decir que es positivo
+Si a=0:
+    Decir que es cero
+Decir que es negativo
